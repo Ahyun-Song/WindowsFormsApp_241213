@@ -19,7 +19,7 @@ namespace WindowsFormsApp_241213
             textBox_print.Text = "이것은\r\n멀티박스\r\n텍스트박스";
             // MessageBox.Show("Hello");
 
-            String msg = "Hello";
+            String msg = "Hello!!";
 
             int a = 0;
         }
